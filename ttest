@@ -1,1 +1,9 @@
-do tou know kimchi?
+function Test(){
+ var i =0;
+ 
+ for(i;i<5;i++){
+ 
+ if(i >3){
+ alert(i);
+ }
+}}
